@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me : email- anandhupillai08@gmail.com
+- Fun fact: The term "git" is British slang for an unpleasant person. Torvalds chose the name because he often jokingly referred to himself as a git.
 
 
 <!---
